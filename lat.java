@@ -10,6 +10,13 @@ public class lat {
     System.out.println("contoh123");        
     System.out.println("contoh123");        
     System.out.println("contoh123");        
-    System.out.println("contoh123");        
+    System.out.println("contoh123");  
+    System.out.println("contoh123");  
+    System.out.println("contoh123");  
+    System.out.println("contoh123");  
+    System.out.println("contoh123");  
+    System.out.println("contoh123");  
+    System.out.println("contoh123");  
+    
     }
 }
